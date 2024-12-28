@@ -9,3 +9,4 @@ Now go to your keybinds and set what you want to be the
 4. Sustain Hotkey
 
 The script has some nice animations, and fades out when not used. 
+Also, you can select the progress bar container (the thing tha surrounds the progress bar) and sound effects that play when the keybinds are pressed or the progress bar becomes full.
